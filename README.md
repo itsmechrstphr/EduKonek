@@ -98,25 +98,6 @@ $password = '';             // MySQL password (empty for default)
 
 ---
 
-## 👥 Default User Accounts
-
-### Admin Account
-- **Username:** admin
-- **Password:** password
-- **Role:** Administrator
-- **Access:** Full system access
-
-### Sample Faculty Accounts
-- **Username:** prof.smith | **Password:** password
-- **Username:** dr.jones | **Password:** password
-
-### Sample Student Accounts
-- **Username:** student1 | **Password:** password
-- **Username:** student2 | **Password:** password
-- **Username:** student3 | **Password:** password
-
----
-
 ## 🎯 Feature Testing Checklist
 
 ### Admin Dashboard
@@ -268,5 +249,6 @@ After installation, verify these features work:
 ---
 
 **Installation Complete!** 🎉
+
 
 Your Edu.Konek Student Management System is now ready to use.
